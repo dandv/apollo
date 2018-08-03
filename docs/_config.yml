@@ -12,7 +12,7 @@ sidebar_categories:
     - fundamentals/benefits
     - fundamentals/tips
   Guides:
-   
+    - guides/faq
     - guides/security
     - guides/versioning
     - guides/monitoring
